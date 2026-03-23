@@ -525,7 +525,8 @@ img {
     margin-bottom: 5px;
 }
 .contact-form .form-control::placeholder {
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: var(--text-light) !important; /* Light-ah irukura grey color rendu mode-layum theriyum */
+    opacity: 0.7;
 }
 .contact-form .form-control:focus {
     border-color: var(--primary-color);
