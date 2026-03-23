@@ -35,15 +35,54 @@
 
 ---
 
-## 📸 Project Showcase
+
 
 ## 📸 Project Showcase
 
 <div align="center">
-  <img src="Screenshot1.png" alt="MENU PAGE" width="800">
+  <img src="Screenshot1.png" alt="Home page" width="800">
+  <img src="Screenshot2.png" alt="Menu page" width="800">
   <p><i>Premium Dark Academia UI with Live Pizza Menu</i></p>
 </div>
+### 📖 Our Story (About Us)
+<div align="center">
+  <img src="Screenshot3.png" alt="About Page" width="800">
+  <p><i>Brand identity and "Dark Academia" style storytelling.</i></p>
+</div>
+### 🏷️ Exclusive Offers & Deals
+<div align="center">
+  <img src="Screenshot5.png" alt="Offers Page" width="800">
+  <p><i>Interactive Offers Page with Promo Code functionality (`WEEKEND50`, `BOGO`).</i></p>
+</div>
+### 📬 Get In Touch (Contact)
+<div align="center">
+  <img src="Screenshot4.png" alt="Contact Page" width="800">
+  <p><i>Responsive Contact Form with embedded Map and Location details.</i></p>
+</div
+## 🚀 Future Enhancements (Technical Roadmap)
 
----
+To evolve this frontend prototype into a production-ready **MERN Stack** application, the following features are planned:
 
+### 🔐 User Authentication
+- **Secure Access:** Implementing Sign-up/Login functionality using **JWT (JSON Web Tokens)** for session management.
+- **Social Integration:** Adding Google & Facebook OAuth for a seamless one-tap login experience.
+- **User Profile:** A dedicated "My Orders" dashboard to view purchase history and saved addresses.
+
+### 💳 Payment Gateway Integration
+- **Secure Checkout:** Integration with **Razorpay** or **Stripe API** for encrypted transactions.
+- **Flexible Payments:** Support for UPI (GPay, PhonePe), Credit/Debit cards, and Net Banking.
+
+### 📊 Admin Dashboard
+- **Menu Management:** A private panel for restaurant owners to dynamically add, edit, or remove pizza items and update prices.
+- **Order Flow:** Real-time status updates (Pending → Preparing → Dispatched → Delivered).
+
+### 📍 Real-time Order Tracking
+- **Live Maps:** Tracking delivery partners using **Google Maps API**.
+- **Instant Alerts:** Push notifications for every stage of the order via **Firebase Cloud Messaging (FCM)**.
+
+### 🤖 AI-Powered Recommendations
+- **Smart Upselling:** Implementing a "Frequently Bought Together" engine using basic Machine Learning logic to suggest sides or drinks based on user selection.
+
+### 🌐 Multi-language Support
+- **Localization:** Adding support for regional languages like **Tamil** and **Hindi** to improve accessibility and reach a wider customer base.
 
