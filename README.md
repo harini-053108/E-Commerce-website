@@ -1,6 +1,4 @@
-
 # 🍕 Italian Pizza - Premium Ordering Experience
-
 
 > **"Where Luxury meets Taste."** > A high-end web application designed with a **Dark Academia** aesthetic, featuring dynamic menu management, real-time cart logic, and premium CSS glassmorphism.
 
@@ -59,7 +57,7 @@
 <div align="center">
   <img src="Screenshot4.png" alt="Contact Page" width="800">
   <p><i>Responsive Contact Form with embedded Map and Location details.</i></p>
-</div
+</div>
 
 ---
   
