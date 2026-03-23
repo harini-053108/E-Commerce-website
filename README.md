@@ -44,21 +44,27 @@
   <img src="Screenshot2.png" alt="Menu page" width="800">
   <p><i>Premium Dark Academia UI with Live Pizza Menu</i></p>
 </div>
+
 ### 📖 Our Story (About Us)
 <div align="center">
   <img src="Screenshot3.png" alt="About Page" width="800">
   <p><i>Brand identity and "Dark Academia" style storytelling.</i></p>
 </div>
+
 ### 🏷️ Exclusive Offers & Deals
 <div align="center">
   <img src="Screenshot5.png" alt="Offers Page" width="800">
   <p><i>Interactive Offers Page with Promo Code functionality (`WEEKEND50`, `BOGO`).</i></p>
 </div>
+
 ### 📬 Get In Touch (Contact)
 <div align="center">
   <img src="Screenshot4.png" alt="Contact Page" width="800">
   <p><i>Responsive Contact Form with embedded Map and Location details.</i></p>
 </div
+
+---
+  
 ## 🚀 Future Enhancements (Technical Roadmap)
 
 To evolve this frontend prototype into a production-ready **MERN Stack** application, the following features are planned:
