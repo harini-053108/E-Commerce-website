@@ -37,9 +37,11 @@
 
 ## 📸 Project Showcase
 
+## 📸 Project Showcase
+
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Insert+Your+Website+Screenshot+Here" alt="Project Screenshot" width="800">
-  <p><i>The Premium Menu Interface in Dark Mode</i></p>
+  <img src="Screenshot1.png" alt="MENU PAGE" width="800">
+  <p><i>Premium Dark Academia UI with Live Pizza Menu</i></p>
 </div>
 
 ---
