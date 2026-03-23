@@ -89,7 +89,7 @@ To evolve this frontend prototype into a production-ready **MERN Stack** applica
 
 <div align="center">
 
-  ### 🔗 [Live Demo - View Website](https://github.com/harini-053108/E-Commerce-website)
+  ### 🔗 [Live Demo - View Website](https://harini-053108.github.io/E-Commerce-website/)
 
   *Experience the luxury "Dark Academia" Pizza ordering interface live!*
   
