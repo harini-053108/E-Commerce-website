@@ -512,25 +512,33 @@ img {
     color: var(--text-light);
 }
 
+./* Contact Form Fields - Dark Mode Visibility Fix */
 .contact-form .form-control {
-    background: var(--bg-secondary);
-    border: 1px solid var(--border-color);
-    color: var(--text-dark);
-    padding: 0.8rem;
-    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.05) !important; /* Semi-transparent dark bg */
+    border: 1px solid rgba(212, 175, 55, 0.3) !important; /* Subtle Gold Border */
+    color: #ffffff !important; /* Type pannum pothu white text varum */
+    transition: all 0.3s ease;
+}
+
+/* Placeholder text (Inside the box before typing) */
+.contact-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* Input box-ah click panna (Focus) */
+.contact-form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border-color: #D4AF37 !important; /* Gold border highlight */
+    box-shadow: 0 0 10px rgba(212, 175, 55, 0.2) !important;
+    outline: none;
+    color: #ffffff !important;
 }
 .contact-form label {
     color: #D4AF37 !important; /* Gold labels for luxury look */
     font-weight: 500;
     margin-bottom: 5px;
 }
-.contact-form .form-control::placeholder {
-    color: rgba(255, 255, 255, 0.5) !important;
-}
-.contact-form .form-control:focus {
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 0.2rem rgba(193, 39, 45, 0.25);
-}
+
 
 /* ========================================
    FOOTER
