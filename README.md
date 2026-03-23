@@ -44,20 +44,4 @@
 
 ---
 
-## 🚀 Quick Setup
 
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/harini-053108/E-Commerce-website.git](https://github.com/harini-053108/E-Commerce-website.git)
-2.Launch:
-Open index.html in your favorite browser.
-
-📈 Future Enhancements
-[ ] Integration with a Real-time Database (Firebase/MongoDB).
-
-[ ] User Authentication (Login/Signup).
-
-[ ] Payment Gateway Integration (Stripe/Razorpay).
-
-👩‍💻 Developed By
-Harini Final Year BCA Student | Web Developer & Designer
